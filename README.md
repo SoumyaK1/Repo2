@@ -1,3 +1,5 @@
+This line is added as part of testing github merge
+
 # Example - Peering 2 VPCs with Terraform
 
 This project aims to provide a very straight-forward example of peering 2 entire
